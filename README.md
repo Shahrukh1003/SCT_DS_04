@@ -1,6 +1,6 @@
-# SCT_DS_04
-Analyze traffic accident data to identify patterns related to road conditions, weather, and time of day. Visualize accident hotspots and contributing factors.
 # Analysis of US Accidents
+Analyze traffic accident data to identify patterns related to road conditions, weather, and time of day. Visualize accident hotspots and contributing factors.
+
 
 ## Introduction
 This project involves the analysis of a US accident dataset using Python. The dataset contains information about accidents in the US up to December 2020. The primary tool used for data manipulation and analysis is `pandas`, a powerful data analysis library.
